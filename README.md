@@ -1,8 +1,8 @@
-# Web3 Learning Project
-## My Web3 Journey
+# Counter Contract
 
-Learning Solidity smart contracts.
+A simple Solidity smart contract used for learning purposes.
 
-Created Hello.sol
-
-Created Counter.sol
+Functions:
+- Increment
+- Decrement
+- Reset
